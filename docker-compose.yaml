@@ -24,7 +24,7 @@ services:
     environment:
       TZ: Europe/Madrid
     volumes:
-      - '/root/docker/adguardhome/work/:/opt/adguardhome/work/'
-      - '/root/docker/adguardhome/conf/:/opt/adguardhome/conf/'
+      - '/patch/to/data/adguardhome/work/:/opt/adguardhome/work/'
+      - '/patch/to/data/adguardhome/conf/:/opt/adguardhome/conf/'
     cap_add:
       - NET_ADMIN
