@@ -31,9 +31,7 @@ docker ps -a
 docker-compose ps
 docker-compose log adguard
 ```
-#### Acceso al dashboard
-Acceso al dashboard
-
+### Acceso al dashboard
 `http://<IP_ADDPRESS_OF_YOUR_SERVER>`
 
 Ready!
