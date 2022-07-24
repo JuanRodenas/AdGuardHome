@@ -53,4 +53,5 @@ Si queremos realizar una copias de seguridad de la configuración o recuperar el
     <br>
     <strong>Pulsa en la imagen para visitar el repositorio de copias de seguridad.</strong>
 </p>
-Ready!
+
+## Ready!
